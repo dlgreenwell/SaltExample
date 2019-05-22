@@ -1,0 +1,59 @@
+# Need to Install IIS
+IIS-WebServerRole:
+  win_servermanager.installed:
+    - recurse: True
+    - name: Web-Server
+
+# Install the features that are going to be needed to host a site with bindings
+install_multiple_features:
+  win_servermanager.installed:
+    - recurse: True
+    - features:
+      - RemoteAccess
+      - XPS-Viewer
+      - SNMP-Service
+    - exclude:
+      - Web-Server
+	  
+#Create an app pool
+example-apppool-setting:
+    win_iis.container_setting:
+        - name: example
+        - container: AppPools
+        - settings:
+            managedPipelineMode: Integrated
+            processModel.maxProcesses: 1
+            processModel.identityType: LocalSystem
+			
+example-apppool:
+    win_iis.create_apppool:
+        - name: example
+			
+#Create a site
+example-site-setting:
+    win_iis.container_setting:
+        - name: example
+        - container: Sites
+        - settings:
+            logFile.logFormat: W3C
+            logFile.period: Daily
+            limits.maxUrlSegments: 32
+			
+#Add a binding for ports on the site
+example-https-binding:
+    win_iis.create_binding:
+        - site: example
+        - hostheader: www.example.com
+        - ipaddress: '*'
+        - port: 443
+        - protocol: http
+        - sslflags: 0
+
+#add application on site		
+example-v1-app:
+    win_iis.create_app:
+        - name: v1
+        - site: example
+        - sourcepath: C:\inetpub\example\v1
+        - apppool: example
+		
