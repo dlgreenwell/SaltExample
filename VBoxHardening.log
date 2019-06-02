@@ -1,0 +1,522 @@
+2de4.3410: Log file opened: 5.0.20r106931 g_hStartupLog=000000000000007c g_uNtVerCombined=0xa042ee00
+2de4.3410: \SystemRoot\System32\ntdll.dll:
+2de4.3410:     CreationTime:    2019-02-12T23:18:46.909042500Z
+2de4.3410:     LastWriteTime:   2019-01-09T05:39:12.294139300Z
+2de4.3410:     ChangeTime:      2019-05-21T03:22:30.099147300Z
+2de4.3410:     FileAttributes:  0x20
+2de4.3410:     Size:            0x1da658
+2de4.3410:     NT Headers:      0xe8
+2de4.3410:     Timestamp:       0x74bed8b0
+2de4.3410:     Machine:         0x8664 - amd64
+2de4.3410:     Timestamp:       0x74bed8b0
+2de4.3410:     Image Version:   10.0
+2de4.3410:     SizeOfImage:     0x1e1000 (1970176)
+2de4.3410:     Resource Dir:    0x174000 LB 0x6b3e8
+2de4.3410:     ProductName:     Microsoft® Windows® Operating System
+2de4.3410:     ProductVersion:  10.0.17134.556
+2de4.3410:     FileVersion:     10.0.17134.556 (WinBuild.160101.0800)
+2de4.3410:     FileDescription: NT Layer DLL
+2de4.3410: \SystemRoot\System32\kernel32.dll:
+2de4.3410:     CreationTime:    2019-05-18T00:33:51.332849500Z
+2de4.3410:     LastWriteTime:   2019-04-19T10:54:56.743034000Z
+2de4.3410:     ChangeTime:      2019-05-21T03:22:30.013641500Z
+2de4.3410:     FileAttributes:  0x20
+2de4.3410:     Size:            0xafd48
+2de4.3410:     NT Headers:      0xe8
+2de4.3410:     Timestamp:       0xda2d7146
+2de4.3410:     Machine:         0x8664 - amd64
+2de4.3410:     Timestamp:       0xda2d7146
+2de4.3410:     Image Version:   10.0
+2de4.3410:     SizeOfImage:     0xb1000 (724992)
+2de4.3410:     Resource Dir:    0xaf000 LB 0x520
+2de4.3410:     ProductName:     Microsoft® Windows® Operating System
+2de4.3410:     ProductVersion:  10.0.17134.753
+2de4.3410:     FileVersion:     10.0.17134.753 (WinBuild.160101.0800)
+2de4.3410:     FileDescription: Windows NT BASE API Client DLL
+2de4.3410: \SystemRoot\System32\KernelBase.dll:
+2de4.3410:     CreationTime:    2019-05-18T00:34:09.814714300Z
+2de4.3410:     LastWriteTime:   2019-04-19T05:06:18.050469100Z
+2de4.3410:     ChangeTime:      2019-05-21T03:22:30.094145700Z
+2de4.3410:     FileAttributes:  0x20
+2de4.3410:     Size:            0x273d70
+2de4.3410:     NT Headers:      0xf0
+2de4.3410:     Timestamp:       0xcdfe5b92
+2de4.3410:     Machine:         0x8664 - amd64
+2de4.3410:     Timestamp:       0xcdfe5b92
+2de4.3410:     Image Version:   10.0
+2de4.3410:     SizeOfImage:     0x273000 (2568192)
+2de4.3410:     Resource Dir:    0x251000 LB 0x548
+2de4.3410:     ProductName:     Microsoft® Windows® Operating System
+2de4.3410:     ProductVersion:  10.0.17134.753
+2de4.3410:     FileVersion:     10.0.17134.753 (WinBuild.160101.0800)
+2de4.3410:     FileDescription: Windows NT BASE API Client DLL
+2de4.3410: \SystemRoot\System32\apisetschema.dll:
+2de4.3410:     CreationTime:    2018-04-11T23:34:37.197833800Z
+2de4.3410:     LastWriteTime:   2018-04-11T23:34:37.197833800Z
+2de4.3410:     ChangeTime:      2018-08-24T23:35:34.196608700Z
+2de4.3410:     FileAttributes:  0x20
+2de4.3410:     Size:            0x1bd98
+2de4.3410:     NT Headers:      0xd0
+2de4.3410:     Timestamp:       0xd02ff418
+2de4.3410:     Machine:         0x8664 - amd64
+2de4.3410:     Timestamp:       0xd02ff418
+2de4.3410:     Image Version:   10.0
+2de4.3410:     SizeOfImage:     0x1c000 (114688)
+2de4.3410:     Resource Dir:    0x1b000 LB 0x408
+2de4.3410:     ProductName:     Microsoft® Windows® Operating System
+2de4.3410:     ProductVersion:  10.0.17134.1
+2de4.3410:     FileVersion:     10.0.17134.1 (WinBuild.160101.0800)
+2de4.3410:     FileDescription: ApiSet Schema DLL
+2de4.3410: supR3HardenedWinFindAdversaries: 0x0
+2de4.3410: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+2de4.3410: Calling main()
+2de4.3410: SUPR3HardenedMain: pszProgName=VBoxHeadless fFlags=0x0
+2de4.3410: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+2de4.3410: SUPR3HardenedMain: Respawn #1
+2de4.3410: System32:  \Device\HarddiskVolume2\Windows\System32
+2de4.3410: WinSxS:    \Device\HarddiskVolume2\Windows\WinSxS
+2de4.3410: KnownDllPath: C:\WINDOWS\System32
+2de4.3410: '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe' has no imports
+2de4.3410: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe)
+2de4.3410: supR3HardNtEnableThreadCreation:
+2de4.3410: supR3HardNtDisableThreadCreation: pvLdrInitThunk=00007ff8655c4f90 pvNtTerminateThread=00007ff8655eb3f0
+2de4.3410: supR3HardenedWinDoReSpawn(1): New child 375c.4a4 [kernel32].
+2de4.3410: supR3HardNtChildGatherData: PebBaseAddress=0000000000885000 cbPeb=0x388
+2de4.3410: supR3HardNtPuChFindNtdll: uNtDllParentAddr=00007ff865550000 uNtDllChildAddr=00007ff865550000
+2de4.3410: supR3HardenedWinSetupChildInit: uLdrInitThunk=00007ff8655c4f90
+2de4.3410: supR3HardenedWinSetupChildInit: Start child.
+2de4.3410: supR3HardNtChildWaitFor: Found expected request 0 (PurifyChildAndCloseHandles) after 1 ms.
+2de4.3410: supR3HardNtChildPurify: Startup delay kludge #1/0: 258 ms, 29 sleeps
+2de4.3410: supHardNtVpScanVirtualMemory: enmKind=CHILD_PURIFICATION
+2de4.3410:  *0000000000000000-ffffffffff85ffff 0x0001/0x0000 0x0000000
+2de4.3410:  *00000000007a0000-000000000077ffff 0x0004/0x0004 0x0020000
+2de4.3410:  *00000000007c0000-00000000007a6fff 0x0002/0x0002 0x0040000
+2de4.3410:   00000000007d9000-00000000007d1fff 0x0001/0x0000 0x0000000
+2de4.3410:  *00000000007e0000-00000000007dbfff 0x0002/0x0002 0x0040000
+2de4.3410:   00000000007e4000-00000000007d7fff 0x0001/0x0000 0x0000000
+2de4.3410:  *00000000007f0000-00000000007eefff 0x0004/0x0004 0x0020000
+2de4.3410:   00000000007f1000-00000000007e1fff 0x0001/0x0000 0x0000000
+2de4.3410:  *0000000000800000-000000000077afff 0x0000/0x0004 0x0020000
+2de4.3410:   0000000000885000-0000000000881fff 0x0004/0x0004 0x0020000
+2de4.3410:   0000000000888000-000000000070ffff 0x0000/0x0004 0x0020000
+2de4.3410:  *0000000000a00000-0000000000904fff 0x0000/0x0004 0x0020000
+2de4.3410:   0000000000afb000-0000000000af7fff 0x0104/0x0004 0x0020000
+2de4.3410:   0000000000afe000-0000000000afbfff 0x0004/0x0004 0x0020000
+2de4.3410:   0000000000b00000-ffffffff8161ffff 0x0001/0x0000 0x0000000
+2de4.3410:  *000000007ffe0000-000000007ffdefff 0x0002/0x0002 0x0020000
+2de4.3410:   000000007ffe1000-ffff800b076c1fff 0x0001/0x0000 0x0000000
+2de4.3410:  *00007ff5f8900000-00007ff5f88dcfff 0x0002/0x0002 0x0040000
+2de4.3410:   00007ff5f8923000-00007ff53f515fff 0x0001/0x0000 0x0000000
+2de4.3410:  *00007ff6b1d30000-00007ff6b1d30fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+2de4.3410:   00007ff6b1d31000-00007ff6b1da0fff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+2de4.3410:   00007ff6b1da1000-00007ff6b1da1fff 0x0080/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+2de4.3410:   00007ff6b1da2000-00007ff6b1de6fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+2de4.3410:   00007ff6b1de7000-00007ff6b1de7fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+2de4.3410:   00007ff6b1de8000-00007ff6b1de8fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+2de4.3410:   00007ff6b1de9000-00007ff6b1dedfff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+2de4.3410:   00007ff6b1dee000-00007ff6b1deefff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+2de4.3410:   00007ff6b1def000-00007ff6b1deffff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+2de4.3410:   00007ff6b1df0000-00007ff6b1df3fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+2de4.3410:   00007ff6b1df4000-00007ff6b1e3bfff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+2de4.3410:   00007ff6b1e3c000-00007ff4fe727fff 0x0001/0x0000 0x0000000
+2de4.3410:  *00007ff865550000-00007ff865550fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+2de4.3410:   00007ff865551000-00007ff86565ffff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+2de4.3410:   00007ff865660000-00007ff8656a5fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+2de4.3410:   00007ff8656a6000-00007ff8656b0fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+2de4.3410:   00007ff8656b1000-00007ff8656befff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+2de4.3410:   00007ff8656bf000-00007ff8656bffff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+2de4.3410:   00007ff8656c0000-00007ff8656c2fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+2de4.3410:   00007ff8656c3000-00007ff865730fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+2de4.3410:   00007ff865731000-00007ff0cae71fff 0x0001/0x0000 0x0000000
+2de4.3410: VBoxHeadless.exe: timestamp 0x57220aaf (rc=VINF_SUCCESS)
+2de4.3410: '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe' has no imports
+2de4.3410: '\Device\HarddiskVolume2\Windows\System32\ntdll.dll' has no imports
+2de4.3410: supR3HardNtChildPurify: Done after 292 ms and 0 fixes (loop #0).
+375c.4a4: Log file opened: 5.0.20r106931 g_hStartupLog=0000000000000008 g_uNtVerCombined=0xa042ee00
+375c.4a4: supR3HardenedVmProcessInit: uNtDllAddr=00007ff865550000 g_uNtVerCombined=0xa042ee00
+375c.4a4: ntdll.dll: timestamp 0x74bed8b0 (rc=VINF_SUCCESS)
+375c.4a4: New simple heap: #1 0000000000c00000 LB 0x400000 (for 1970176 allocation)
+2de4.3410: supR3HardNtEnableThreadCreation:
+375c.4a4: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+375c.4a4: System32:  \Device\HarddiskVolume2\Windows\System32
+375c.4a4: WinSxS:    \Device\HarddiskVolume2\Windows\WinSxS
+375c.4a4: KnownDllPath: C:\WINDOWS\System32
+375c.4a4: supR3HardenedVmProcessInit: Opening vboxdrv stub...
+375c.4a4: supR3HardenedVmProcessInit: Restoring LdrInitializeThunk...
+375c.4a4: supR3HardenedVmProcessInit: Returning to LdrInitializeThunk...
+375c.4a4: Registered Dll notification callback with NTDLL.
+375c.4a4: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\kernel32.dll)
+375c.4a4: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\kernel32.dll
+375c.4a4: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\KERNEL32.DLL (Input=KERNEL32.DLL, rcNtResolve=0xc0150008) *pfFlags=0xffffffff pwszSearchPath=0000000000004001:<flags> [calling]
+375c.4a4: supR3HardenedDllNotificationCallback: load   00007ff861be0000 LB 0x00273000 C:\WINDOWS\System32\KERNELBASE.dll [fFlags=0x0]
+375c.4a4: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\KernelBase.dll)
+375c.4a4: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\KernelBase.dll
+375c.4a4: supR3HardenedDllNotificationCallback: load   00007ff8652d0000 LB 0x000b1000 C:\WINDOWS\System32\KERNEL32.DLL [fFlags=0x0]
+375c.4a4: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\kernel32.dll [lacks WinVerifyTrust]
+375c.4a4: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ff8652d0000 'C:\WINDOWS\System32\KERNEL32.DLL'
+375c.4a4: supR3HardenedDllNotificationCallback: load   00007ff6b1d30000 LB 0x0010c000 C:\Program Files\Oracle\VirtualBox\VBoxHeadless.exe [fFlags=0x0]
+375c.4a4: '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe' has no imports
+375c.4a4: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe)
+375c.4a4: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+375c.4a4: supR3HardNtDisableThreadCreation: pvLdrInitThunk=00007ff8655c4f90 pvNtTerminateThread=00007ff8655eb3f0
+2de4.3410: supR3HardNtChildWaitFor: Found expected request 1 (CloseEvents) after 79 ms.
+375c.4a4: \SystemRoot\System32\ntdll.dll:
+375c.4a4:     CreationTime:    2019-02-12T23:18:46.909042500Z
+375c.4a4:     LastWriteTime:   2019-01-09T05:39:12.294139300Z
+375c.4a4:     ChangeTime:      2019-05-21T03:22:30.099147300Z
+375c.4a4:     FileAttributes:  0x20
+375c.4a4:     Size:            0x1da658
+375c.4a4:     NT Headers:      0xe8
+375c.4a4:     Timestamp:       0x74bed8b0
+375c.4a4:     Machine:         0x8664 - amd64
+375c.4a4:     Timestamp:       0x74bed8b0
+375c.4a4:     Image Version:   10.0
+375c.4a4:     SizeOfImage:     0x1e1000 (1970176)
+375c.4a4:     Resource Dir:    0x174000 LB 0x6b3e8
+375c.4a4:     ProductName:     Microsoft® Windows® Operating System
+375c.4a4:     ProductVersion:  10.0.17134.556
+375c.4a4:     FileVersion:     10.0.17134.556 (WinBuild.160101.0800)
+375c.4a4:     FileDescription: NT Layer DLL
+375c.4a4: \SystemRoot\System32\kernel32.dll:
+375c.4a4:     CreationTime:    2019-05-18T00:33:51.332849500Z
+375c.4a4:     LastWriteTime:   2019-04-19T10:54:56.743034000Z
+375c.4a4:     ChangeTime:      2019-05-21T03:22:30.013641500Z
+375c.4a4:     FileAttributes:  0x20
+375c.4a4:     Size:            0xafd48
+375c.4a4:     NT Headers:      0xe8
+375c.4a4:     Timestamp:       0xda2d7146
+375c.4a4:     Machine:         0x8664 - amd64
+375c.4a4:     Timestamp:       0xda2d7146
+375c.4a4:     Image Version:   10.0
+375c.4a4:     SizeOfImage:     0xb1000 (724992)
+375c.4a4:     Resource Dir:    0xaf000 LB 0x520
+375c.4a4:     ProductName:     Microsoft® Windows® Operating System
+375c.4a4:     ProductVersion:  10.0.17134.753
+375c.4a4:     FileVersion:     10.0.17134.753 (WinBuild.160101.0800)
+375c.4a4:     FileDescription: Windows NT BASE API Client DLL
+375c.4a4: \SystemRoot\System32\KernelBase.dll:
+375c.4a4:     CreationTime:    2019-05-18T00:34:09.814714300Z
+375c.4a4:     LastWriteTime:   2019-04-19T05:06:18.050469100Z
+375c.4a4:     ChangeTime:      2019-05-21T03:22:30.094145700Z
+375c.4a4:     FileAttributes:  0x20
+375c.4a4:     Size:            0x273d70
+375c.4a4:     NT Headers:      0xf0
+375c.4a4:     Timestamp:       0xcdfe5b92
+375c.4a4:     Machine:         0x8664 - amd64
+375c.4a4:     Timestamp:       0xcdfe5b92
+375c.4a4:     Image Version:   10.0
+375c.4a4:     SizeOfImage:     0x273000 (2568192)
+375c.4a4:     Resource Dir:    0x251000 LB 0x548
+375c.4a4:     ProductName:     Microsoft® Windows® Operating System
+375c.4a4:     ProductVersion:  10.0.17134.753
+375c.4a4:     FileVersion:     10.0.17134.753 (WinBuild.160101.0800)
+375c.4a4:     FileDescription: Windows NT BASE API Client DLL
+375c.4a4: \SystemRoot\System32\apisetschema.dll:
+375c.4a4:     CreationTime:    2018-04-11T23:34:37.197833800Z
+375c.4a4:     LastWriteTime:   2018-04-11T23:34:37.197833800Z
+375c.4a4:     ChangeTime:      2018-08-24T23:35:34.196608700Z
+375c.4a4:     FileAttributes:  0x20
+375c.4a4:     Size:            0x1bd98
+375c.4a4:     NT Headers:      0xd0
+375c.4a4:     Timestamp:       0xd02ff418
+375c.4a4:     Machine:         0x8664 - amd64
+375c.4a4:     Timestamp:       0xd02ff418
+375c.4a4:     Image Version:   10.0
+375c.4a4:     SizeOfImage:     0x1c000 (114688)
+375c.4a4:     Resource Dir:    0x1b000 LB 0x408
+375c.4a4:     ProductName:     Microsoft® Windows® Operating System
+375c.4a4:     ProductVersion:  10.0.17134.1
+375c.4a4:     FileVersion:     10.0.17134.1 (WinBuild.160101.0800)
+375c.4a4:     FileDescription: ApiSet Schema DLL
+375c.4a4: supR3HardenedWinFindAdversaries: 0x0
+375c.4a4: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+375c.4a4: Calling main()
+375c.4a4: SUPR3HardenedMain: pszProgName=VBoxHeadless fFlags=0x0
+375c.4a4: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+375c.4a4: '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe' has no imports
+375c.4a4: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe)
+375c.4a4: SUPR3HardenedMain: Respawn #2
+375c.4a4: supR3HardNtEnableThreadCreation:
+375c.4a4: '\Device\HarddiskVolume2\Windows\System32\ntdll.dll' has no imports
+375c.4a4: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\ntdll.dll)
+375c.4a4: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+375c.4a4: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\ntdll.dll (Input=ntdll.dll, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+375c.4a4: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ff865550000 'C:\WINDOWS\System32\ntdll.dll'
+375c.4a4: supR3HardNtDisableThreadCreation: pvLdrInitThunk=00007ff8655c4f90 pvNtTerminateThread=00007ff8655eb3f0
+375c.4a4: supR3HardenedWinDoReSpawn(2): New child 1bd0.2ca8 [kernel32].
+375c.4a4: supR3HardenedWinReSpawn: NtSetInformationThread/ThreadHideFromDebugger failed: 0xc0000022 (harmless)
+375c.4a4: supR3HardNtChildGatherData: PebBaseAddress=00000000010ab000 cbPeb=0x388
+375c.4a4: supR3HardNtPuChFindNtdll: uNtDllParentAddr=00007ff865550000 uNtDllChildAddr=00007ff865550000
+375c.4a4: supR3HardenedWinSetupChildInit: uLdrInitThunk=00007ff8655c4f90
+375c.4a4: supR3HardenedWinSetupChildInit: Start child.
+375c.4a4: supR3HardNtChildWaitFor: Found expected request 0 (PurifyChildAndCloseHandles) after 1 ms.
+375c.4a4: supR3HardNtChildPurify: Startup delay kludge #1/0: 259 ms, 29 sleeps
+375c.4a4: supHardNtVpScanVirtualMemory: enmKind=CHILD_PURIFICATION
+375c.4a4:  *0000000000000000-ffffffffff0fffff 0x0001/0x0000 0x0000000
+375c.4a4:  *0000000000f00000-0000000000edffff 0x0004/0x0004 0x0020000
+375c.4a4:  *0000000000f20000-0000000000f06fff 0x0002/0x0002 0x0040000
+375c.4a4:   0000000000f39000-0000000000f31fff 0x0001/0x0000 0x0000000
+375c.4a4:  *0000000000f40000-0000000000f3bfff 0x0002/0x0002 0x0040000
+375c.4a4:   0000000000f44000-0000000000f37fff 0x0001/0x0000 0x0000000
+375c.4a4:  *0000000000f50000-0000000000f4efff 0x0004/0x0004 0x0020000
+375c.4a4:   0000000000f51000-0000000000ea1fff 0x0001/0x0000 0x0000000
+375c.4a4:  *0000000001000000-0000000000f54fff 0x0000/0x0004 0x0020000
+375c.4a4:   00000000010ab000-00000000010a7fff 0x0004/0x0004 0x0020000
+375c.4a4:   00000000010ae000-0000000000f5bfff 0x0000/0x0004 0x0020000
+375c.4a4:  *0000000001200000-0000000001104fff 0x0000/0x0004 0x0020000
+375c.4a4:   00000000012fb000-00000000012f7fff 0x0104/0x0004 0x0020000
+375c.4a4:   00000000012fe000-00000000012fbfff 0x0004/0x0004 0x0020000
+375c.4a4:   0000000001300000-ffffffff8261ffff 0x0001/0x0000 0x0000000
+375c.4a4:  *000000007ffe0000-000000007ffdefff 0x0002/0x0002 0x0020000
+375c.4a4:   000000007ffe1000-ffff800bfb481fff 0x0001/0x0000 0x0000000
+375c.4a4:  *00007ff504b40000-00007ff504b1cfff 0x0002/0x0002 0x0040000
+375c.4a4:   00007ff504b63000-00007ff357995fff 0x0001/0x0000 0x0000000
+375c.4a4:  *00007ff6b1d30000-00007ff6b1d30fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+375c.4a4:   00007ff6b1d31000-00007ff6b1da0fff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+375c.4a4:   00007ff6b1da1000-00007ff6b1da1fff 0x0080/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+375c.4a4:   00007ff6b1da2000-00007ff6b1de6fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+375c.4a4:   00007ff6b1de7000-00007ff6b1de7fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+375c.4a4:   00007ff6b1de8000-00007ff6b1de8fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+375c.4a4:   00007ff6b1de9000-00007ff6b1dedfff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+375c.4a4:   00007ff6b1dee000-00007ff6b1deefff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+375c.4a4:   00007ff6b1def000-00007ff6b1deffff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+375c.4a4:   00007ff6b1df0000-00007ff6b1df3fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+375c.4a4:   00007ff6b1df4000-00007ff6b1e3bfff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+375c.4a4:   00007ff6b1e3c000-00007ff4fe727fff 0x0001/0x0000 0x0000000
+375c.4a4:  *00007ff865550000-00007ff865550fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+375c.4a4:   00007ff865551000-00007ff86565ffff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+375c.4a4:   00007ff865660000-00007ff8656a5fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+375c.4a4:   00007ff8656a6000-00007ff8656b0fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+375c.4a4:   00007ff8656b1000-00007ff8656befff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+375c.4a4:   00007ff8656bf000-00007ff8656bffff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+375c.4a4:   00007ff8656c0000-00007ff8656c2fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+375c.4a4:   00007ff8656c3000-00007ff865730fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+375c.4a4:   00007ff865731000-00007ff0cae71fff 0x0001/0x0000 0x0000000
+375c.4a4: VBoxHeadless.exe: timestamp 0x57220aaf (rc=VINF_SUCCESS)
+375c.4a4: '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe' has no imports
+375c.4a4: '\Device\HarddiskVolume2\Windows\System32\ntdll.dll' has no imports
+375c.4a4: supR3HardNtChildPurify: Done after 292 ms and 0 fixes (loop #0).
+1bd0.2ca8: Log file opened: 5.0.20r106931 g_hStartupLog=0000000000000008 g_uNtVerCombined=0xa042ee00
+1bd0.2ca8: supR3HardenedVmProcessInit: uNtDllAddr=00007ff865550000 g_uNtVerCombined=0xa042ee00
+1bd0.2ca8: ntdll.dll: timestamp 0x74bed8b0 (rc=VINF_SUCCESS)
+1bd0.2ca8: New simple heap: #1 0000000001400000 LB 0x400000 (for 1970176 allocation)
+375c.4a4: supR3HardenedEarlyCompact: Removed heap 1 (0x00000000c00000 LB 0x400000)
+375c.4a4: supR3HardNtEnableThreadCreation:
+1bd0.2ca8: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+1bd0.2ca8: System32:  \Device\HarddiskVolume2\Windows\System32
+1bd0.2ca8: WinSxS:    \Device\HarddiskVolume2\Windows\WinSxS
+1bd0.2ca8: KnownDllPath: C:\WINDOWS\System32
+1bd0.2ca8: supR3HardenedVmProcessInit: Opening vboxdrv...
+1bd0.2ca8: supR3HardenedVmProcessInit: Restoring LdrInitializeThunk...
+1bd0.2ca8: supR3HardenedVmProcessInit: Returning to LdrInitializeThunk...
+1bd0.2ca8: Registered Dll notification callback with NTDLL.
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\kernel32.dll)
+1bd0.2ca8: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\kernel32.dll
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\KERNEL32.DLL (Input=KERNEL32.DLL, rcNtResolve=0xc0150008) *pfFlags=0xffffffff pwszSearchPath=0000000000004001:<flags> [calling]
+1bd0.2ca8: supR3HardenedDllNotificationCallback: load   00007ff861be0000 LB 0x00273000 C:\WINDOWS\System32\KERNELBASE.dll [fFlags=0x0]
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\KernelBase.dll)
+1bd0.2ca8: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\KernelBase.dll
+1bd0.2ca8: supR3HardenedDllNotificationCallback: load   00007ff8652d0000 LB 0x000b1000 C:\WINDOWS\System32\KERNEL32.DLL [fFlags=0x0]
+1bd0.2ca8: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\kernel32.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ff8652d0000 'C:\WINDOWS\System32\KERNEL32.DLL'
+1bd0.2ca8: supR3HardenedDllNotificationCallback: load   00007ff6b1d30000 LB 0x0010c000 C:\Program Files\Oracle\VirtualBox\VBoxHeadless.exe [fFlags=0x0]
+1bd0.2ca8: '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe' has no imports
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe)
+1bd0.2ca8: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+1bd0.2ca8: supR3HardNtDisableThreadCreation: pvLdrInitThunk=00007ff8655c4f90 pvNtTerminateThread=00007ff8655eb3f0
+375c.4a4: supR3HardNtChildWaitFor: Found expected request 1 (CloseEvents) after 95 ms.
+1bd0.2ca8: \SystemRoot\System32\ntdll.dll:
+1bd0.2ca8:     CreationTime:    2019-02-12T23:18:46.909042500Z
+1bd0.2ca8:     LastWriteTime:   2019-01-09T05:39:12.294139300Z
+1bd0.2ca8:     ChangeTime:      2019-05-21T03:22:30.099147300Z
+1bd0.2ca8:     FileAttributes:  0x20
+1bd0.2ca8:     Size:            0x1da658
+1bd0.2ca8:     NT Headers:      0xe8
+1bd0.2ca8:     Timestamp:       0x74bed8b0
+1bd0.2ca8:     Machine:         0x8664 - amd64
+1bd0.2ca8:     Timestamp:       0x74bed8b0
+1bd0.2ca8:     Image Version:   10.0
+1bd0.2ca8:     SizeOfImage:     0x1e1000 (1970176)
+1bd0.2ca8:     Resource Dir:    0x174000 LB 0x6b3e8
+1bd0.2ca8:     ProductName:     Microsoft® Windows® Operating System
+1bd0.2ca8:     ProductVersion:  10.0.17134.556
+1bd0.2ca8:     FileVersion:     10.0.17134.556 (WinBuild.160101.0800)
+1bd0.2ca8:     FileDescription: NT Layer DLL
+1bd0.2ca8: \SystemRoot\System32\kernel32.dll:
+1bd0.2ca8:     CreationTime:    2019-05-18T00:33:51.332849500Z
+1bd0.2ca8:     LastWriteTime:   2019-04-19T10:54:56.743034000Z
+1bd0.2ca8:     ChangeTime:      2019-05-21T03:22:30.013641500Z
+1bd0.2ca8:     FileAttributes:  0x20
+1bd0.2ca8:     Size:            0xafd48
+1bd0.2ca8:     NT Headers:      0xe8
+1bd0.2ca8:     Timestamp:       0xda2d7146
+1bd0.2ca8:     Machine:         0x8664 - amd64
+1bd0.2ca8:     Timestamp:       0xda2d7146
+1bd0.2ca8:     Image Version:   10.0
+1bd0.2ca8:     SizeOfImage:     0xb1000 (724992)
+1bd0.2ca8:     Resource Dir:    0xaf000 LB 0x520
+1bd0.2ca8:     ProductName:     Microsoft® Windows® Operating System
+1bd0.2ca8:     ProductVersion:  10.0.17134.753
+1bd0.2ca8:     FileVersion:     10.0.17134.753 (WinBuild.160101.0800)
+1bd0.2ca8:     FileDescription: Windows NT BASE API Client DLL
+1bd0.2ca8: \SystemRoot\System32\KernelBase.dll:
+1bd0.2ca8:     CreationTime:    2019-05-18T00:34:09.814714300Z
+1bd0.2ca8:     LastWriteTime:   2019-04-19T05:06:18.050469100Z
+1bd0.2ca8:     ChangeTime:      2019-05-21T03:22:30.094145700Z
+1bd0.2ca8:     FileAttributes:  0x20
+1bd0.2ca8:     Size:            0x273d70
+1bd0.2ca8:     NT Headers:      0xf0
+1bd0.2ca8:     Timestamp:       0xcdfe5b92
+1bd0.2ca8:     Machine:         0x8664 - amd64
+1bd0.2ca8:     Timestamp:       0xcdfe5b92
+1bd0.2ca8:     Image Version:   10.0
+1bd0.2ca8:     SizeOfImage:     0x273000 (2568192)
+1bd0.2ca8:     Resource Dir:    0x251000 LB 0x548
+1bd0.2ca8:     ProductName:     Microsoft® Windows® Operating System
+1bd0.2ca8:     ProductVersion:  10.0.17134.753
+1bd0.2ca8:     FileVersion:     10.0.17134.753 (WinBuild.160101.0800)
+1bd0.2ca8:     FileDescription: Windows NT BASE API Client DLL
+1bd0.2ca8: \SystemRoot\System32\apisetschema.dll:
+1bd0.2ca8:     CreationTime:    2018-04-11T23:34:37.197833800Z
+1bd0.2ca8:     LastWriteTime:   2018-04-11T23:34:37.197833800Z
+1bd0.2ca8:     ChangeTime:      2018-08-24T23:35:34.196608700Z
+1bd0.2ca8:     FileAttributes:  0x20
+1bd0.2ca8:     Size:            0x1bd98
+1bd0.2ca8:     NT Headers:      0xd0
+1bd0.2ca8:     Timestamp:       0xd02ff418
+1bd0.2ca8:     Machine:         0x8664 - amd64
+1bd0.2ca8:     Timestamp:       0xd02ff418
+1bd0.2ca8:     Image Version:   10.0
+1bd0.2ca8:     SizeOfImage:     0x1c000 (114688)
+1bd0.2ca8:     Resource Dir:    0x1b000 LB 0x408
+1bd0.2ca8:     ProductName:     Microsoft® Windows® Operating System
+1bd0.2ca8:     ProductVersion:  10.0.17134.1
+1bd0.2ca8:     FileVersion:     10.0.17134.1 (WinBuild.160101.0800)
+1bd0.2ca8:     FileDescription: ApiSet Schema DLL
+1bd0.2ca8: supR3HardenedWinFindAdversaries: 0x0
+1bd0.2ca8: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+1bd0.2ca8: Calling main()
+1bd0.2ca8: SUPR3HardenedMain: pszProgName=VBoxHeadless fFlags=0x0
+1bd0.2ca8: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+1bd0.2ca8: '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe' has no imports
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe)
+1bd0.2ca8: SUPR3HardenedMain: Final process, opening VBoxDrv...
+1bd0.2ca8: supR3HardenedEarlyCompact: Removed heap 1 (0x00000001400000 LB 0x400000)
+1bd0.2ca8: supR3HardNtEnableThreadCreation:
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxSupLib.dll)
+1bd0.2ca8: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxSupLib.dll
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: pName=C:\Program Files\Oracle\VirtualBox\VBoxSupLib.DLL (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+1bd0.2ca8: supR3HardenedScreenImage/NtCreateSection: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxSupLib.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedDllNotificationCallback: load   00007ff85d5f0000 LB 0x00005000 C:\Program Files\Oracle\VirtualBox\VBoxSupLib.DLL [fFlags=0x0]
+1bd0.2ca8: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxSupLib.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxSupLib.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: pName=C:\Program Files\Oracle\VirtualBox\VBoxSupLib.DLL (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ff85d5f0000 'C:\Program Files\Oracle\VirtualBox\VBoxSupLib.DLL'
+1bd0.2ca8: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxSupLib.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: pName=C:\Program Files\Oracle\VirtualBox\VBoxSupLib.DLL (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ff85d5f0000 'C:\Program Files\Oracle\VirtualBox\VBoxSupLib.DLL'
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ff85d5f0000 'C:\Program Files\Oracle\VirtualBox\VBoxSupLib.DLL'
+1bd0.2ca8: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+1bd0.2ca8: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #1 'msasn1.dll'.
+1bd0.2ca8: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #6 'crypt32.dll'.
+1bd0.2ca8: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #27 'rpcrt4.dll'.
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\wintrust.dll)
+1bd0.2ca8: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\wintrust.dll
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll)
+1bd0.2ca8: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'crypt32.dll'...
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: 'crypt32.dll' -> '\Device\HarddiskVolume2\Windows\System32\crypt32.dll' [rcNtRedir=0xc0150008]
+1bd0.2ca8: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #34 'msasn1.dll'.
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\crypt32.dll)
+1bd0.2ca8: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\crypt32.dll
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msasn1.dll'...
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: 'msasn1.dll' -> '\Device\HarddiskVolume2\Windows\System32\msasn1.dll' [rcNtRedir=0xc0150008]
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\msasn1.dll)
+1bd0.2ca8: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\msasn1.dll
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\msvcrt.dll)
+1bd0.2ca8: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\msvcrt.dll
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msasn1.dll'...
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: 'msasn1.dll' -> '\Device\HarddiskVolume2\Windows\System32\msasn1.dll' [rcNtRedir=0xc0150008]
+1bd0.2ca8: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msasn1.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\system32\Wintrust.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+1bd0.2ca8: supR3HardenedDllNotificationCallback: load   00007ff863510000 LB 0x0009e000 C:\WINDOWS\System32\msvcrt.dll [fFlags=0x0]
+1bd0.2ca8: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedDllNotificationCallback: load   00007ff861900000 LB 0x00012000 C:\WINDOWS\System32\MSASN1.dll [fFlags=0x0]
+1bd0.2ca8: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msasn1.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedDllNotificationCallback: load   00007ff861ac0000 LB 0x000f8000 C:\WINDOWS\System32\ucrtbase.dll [fFlags=0x0]
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\ucrtbase.dll)
+1bd0.2ca8: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\ucrtbase.dll
+1bd0.2ca8: supR3HardenedDllNotificationCallback: load   00007ff862770000 LB 0x001e2000 C:\WINDOWS\System32\CRYPT32.dll [fFlags=0x0]
+1bd0.2ca8: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\crypt32.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedDllNotificationCallback: load   00007ff862ae0000 LB 0x00124000 C:\WINDOWS\System32\RPCRT4.dll [fFlags=0x0]
+1bd0.2ca8: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedDllNotificationCallback: load   00007ff8639f0000 LB 0x0005b000 C:\WINDOWS\System32\sechost.dll [fFlags=0x0]
+1bd0.2ca8: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #2 'rpcrt4.dll'.
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\sechost.dll)
+1bd0.2ca8: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\sechost.dll
+1bd0.2ca8: supR3HardenedDllNotificationCallback: load   00007ff863c90000 LB 0x000a1000 C:\WINDOWS\System32\advapi32.dll [fFlags=0x0]
+1bd0.2ca8: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+1bd0.2ca8: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #6 'sechost.dll'.
+1bd0.2ca8: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #27 'rpcrt4.dll'.
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\advapi32.dll)
+1bd0.2ca8: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\advapi32.dll
+1bd0.2ca8: supR3HardenedDllNotificationCallback: load   00007ff861e60000 LB 0x00057000 C:\WINDOWS\System32\Wintrust.dll [fFlags=0x0]
+1bd0.2ca8: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\wintrust.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-synch-l1-2-0 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ff861be0000 'api-ms-win-core-synch-l1-2-0'
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-fibers-l1-1-1 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ff861be0000 'api-ms-win-core-fibers-l1-1-1'
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-fibers-l1-1-1 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ff861be0000 'api-ms-win-core-fibers-l1-1-1'
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-synch-l1-2-0 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ff861be0000 'api-ms-win-core-synch-l1-2-0'
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-localization-l1-2-1 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ff861be0000 'api-ms-win-core-localization-l1-2-1'
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ff861e60000 'C:\WINDOWS\system32\Wintrust.dll'
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> -626 (\Device\HarddiskVolume2\Windows\System32\bcrypt.dll)
+1bd0.2ca8: Error (rc=0):
+1bd0.2ca8: supR3HardenedScreenImage/LdrLoadDll: rc=Unknown Status -626 (0xfffffd8e) fImage=1 fProtect=0x0 fAccess=0x0 \Device\HarddiskVolume2\Windows\System32\bcrypt.dll: Grown load config (192 to 256 bytes) includes non-zero bytes: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 90 a9 01 80 01 00 00 00
+1bd0.2ca8: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\bcrypt.dll
+1bd0.2ca8: Error (rc=0):
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: rejecting 'C:\WINDOWS\system32\bcrypt.dll' (C:\WINDOWS\system32\bcrypt.dll): rcNt=0xc0000190
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0xc0000190 'C:\WINDOWS\system32\bcrypt.dll'
+1bd0.2ca8: Warning! Failed to load bcrypt.dll
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\cryptsp.dll)
+1bd0.2ca8: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\cryptsp.dll
+1bd0.2ca8: supR3HardenedDllNotificationCallback: load   00007ff861290000 LB 0x00017000 C:\WINDOWS\SYSTEM32\CRYPTSP.dll [fFlags=0x0]
+1bd0.2ca8: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\cryptsp.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #18 'bcrypt.dll'.
+1bd0.2ca8: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\rsaenh.dll)
+1bd0.2ca8: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\rsaenh.dll
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'bcrypt.dll'...
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: 'bcrypt.dll' -> '\Device\HarddiskVolume2\Windows\System32\bcrypt.dll' [rcNtRedir=0xc0150008]
+1bd0.2ca8: supR3HardenedScreenImage/Imports: cache hit (Unknown Status -626 (0xfffffd8e)) on \Device\HarddiskVolume2\Windows\System32\bcrypt.dll [lacks WinVerifyTrust]
+1bd0.2ca8: Error (rc=0):
+1bd0.2ca8: supR3HardenedScreenImage/Imports: cached rc=Unknown Status -626 (0xfffffd8e) fImage=1 fProtect=0x0 fAccess=0x0 cHits=1 \Device\HarddiskVolume2\Windows\System32\bcrypt.dll
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+1bd0.2ca8: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'sechost.dll'...
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: 'sechost.dll' -> '\Device\HarddiskVolume2\Windows\System32\sechost.dll' [rcNtRedir=0xc0150008]
+1bd0.2ca8: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\sechost.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+1bd0.2ca8: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+1bd0.2ca8: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+1bd0.2ca8: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\system32\rsaenh.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+1bd0.2ca8: supR3HardenedScreenImage/NtCreateSection: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rsaenh.dll [lacks WinVerifyTrust]
+1bd0.2ca8: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status -626 (0xfffffd8e)) on \Device\HarddiskVolume2\Windows\System32\bcrypt.dll [lacks WinVerifyTrust]
+1bd0.2ca8: Error (rc=0):
+1bd0.2ca8: supR3HardenedScreenImage/NtCreateSection: cached rc=Unknown Status -626 (0xfffffd8e) fImage=1 fProtect=0x10 fAccess=0xf cHits=2 \Device\HarddiskVolume2\Windows\System32\bcrypt.dll
+1bd0.2ca8: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0xc0000190 'C:\WINDOWS\system32\rsaenh.dll'
+1bd0.2ca8: supR3HardNtViCallWinVerifyTrust: WinVerifyTrust failed with 0x8 (<NULL>) on '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe'
+1bd0.2ca8: Error -22919 in VBoxHeadless! (enmWhat=1)
+1bd0.2ca8: WinVerifyTrust failed on stub executable: WinVerifyTrust failed with hrc=Unknown Status 0x8 on '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxHeadless.exe'
+375c.4a4: supR3HardNtChildWaitFor[2]: Quitting: ExitCode=0x1 (rcNtWait=0x0, rcNt1=0x0, rcNt2=0x103, rcNt3=0x103, 102 ms, the end);
+2de4.3410: supR3HardNtChildWaitFor[1]: Quitting: ExitCode=0x1 (rcNtWait=0x0, rcNt1=0x0, rcNt2=0x103, rcNt3=0x103, 531 ms, the end);
